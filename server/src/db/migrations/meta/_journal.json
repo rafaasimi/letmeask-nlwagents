@@ -15,6 +15,20 @@
       "when": 1752012167200,
       "tag": "0001_fat_typhoid_mary",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752088649256,
+      "tag": "0002_wild_old_lace",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752147221574,
+      "tag": "0003_motionless_zodiak",
+      "breakpoints": true
     }
   ]
 }
